@@ -1,0 +1,9 @@
+.whatsapp-box{
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  z-index: 101;
+}
+.whatsapp-box .link .logo {
+  width: 50px;
+}
