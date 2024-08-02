@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Disallow: /onlygooglebot/
 
-Sitemap: http://sss-scanner.com/sitemap.xml
+Sitemap: http://sss-scanner.co/sitemap.xml
